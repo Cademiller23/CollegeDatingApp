@@ -4,7 +4,7 @@ import { initializeAuth, getReactNativePersistence } from 'firebase/auth';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCDwzK3b1o8HoBTevNsomtYhll3u4Fs5K4",
+  apiKey: "---------------------------",
   authDomain: "collegedatingapp.firebaseapp.com",
   projectId: "collegedatingapp",
   storageBucket: "collegedatingapp.appspot.com",
