@@ -8,8 +8,8 @@ const firebaseConfig = {
   authDomain: "collegedatingapp.firebaseapp.com",
   projectId: "collegedatingapp",
   storageBucket: "collegedatingapp.appspot.com",
-  messagingSenderId: "204751347343",
-  appId: "1:204751347343:ios:6d26428d3dbafe2c025afa",
+  messagingSenderId: "----------",
+  appId: "--------",
 };
 
 var app;
